@@ -21,7 +21,7 @@
     "prql-js": "file:../../prqlc/bindings/js",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-syntax-highlighter": "^15.5.0",
+    "react-syntax-highlighter": "^16.1.2",
     "web-vitals": "^3.5.0",
     "yaml": "^2.3.0"
   },
