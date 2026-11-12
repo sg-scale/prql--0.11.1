@@ -54,7 +54,7 @@ runs:
         echo 'CC=aarch64-linux-gnu-gcc' >>"$GITHUB_ENV"
 
     - name: cargo build
-      uses: richb-hanover/cargo@v1.1.0
+      uses: richb-hanover/cargo@1.1.1
       with:
         command: build
         # We previously had `--package=prqlc` for all, but this caches much
